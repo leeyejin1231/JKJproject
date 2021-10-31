@@ -16,6 +16,6 @@
 ![image](https://user-images.githubusercontent.com/82494506/139576329-b0a0b62b-5286-4984-8cb6-fbc112c67389.png)
 
 
-### 그리고 실종된 PHP코드 ....ㅜㅠ 아놔..
+### 그리고 실종된 PHP코드 ...
 ![image](https://user-images.githubusercontent.com/82494506/139576490-3101bda1-1778-4a51-bb93-08e7d3c9ada0.png)
 
