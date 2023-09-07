@@ -6,6 +6,9 @@
 ### 애플리케이션 흐름도
 ![image](https://user-images.githubusercontent.com/82494506/139576410-b2535d6d-b4fb-4d18-9a19-570b38d2ef1e.png)
 
+### 프로젝트 구성도
+<img width="720" alt="image" src="https://github.com/leeyejin1231/JKJproject/assets/82494506/8593a159-71ae-40c0-a322-2f3e9458718a">
+
 ### 애플리케이션 내부
 ![어플리케이션](https://user-images.githubusercontent.com/82494506/139576372-00c06952-d4b2-45fe-9dd5-aa3d6ca119c0.png)
 
@@ -15,7 +18,11 @@
 ### NFC 단말기(케이스) 3D 모델링
 ![image](https://user-images.githubusercontent.com/82494506/139576329-b0a0b62b-5286-4984-8cb6-fbc112c67389.png)
 
+### DEMO
+<image src="https://github.com/leeyejin1231/JKJproject/assets/82494506/47397774-389a-4619-b3f7-34ea6eb596ac" width="250"/>
 
+
+<!--
 ### 그리고 실종된 PHP코드 ...
 ![image](https://user-images.githubusercontent.com/82494506/139576490-3101bda1-1778-4a51-bb93-08e7d3c9ada0.png)
-
+--!>
